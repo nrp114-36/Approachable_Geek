@@ -1,0 +1,11 @@
+Author : Nisarg Patel
+
+Project 2 - Coding Challenge
+
+How to run:
+
+- Git clone "https://github.com/nrp114-36/Approachable_Geek.git" or install the zip folder
+- Open the project in android Studio and run it on Virtual machine or connect it to your phone and run the app locally
+
+You can find the images in the repository of how the application will look. You can click on the image icon to edit and upload a new image.
+Same goes with Name, Number, Email, and Bio field.
